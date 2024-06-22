@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 
 const token = "";
-const clientId = "";
+const clientId = "1102162892188553227";
 const botstatus = "";
 const madeby = "";
 const endpoint = "http://45.90.13.151:6041"
